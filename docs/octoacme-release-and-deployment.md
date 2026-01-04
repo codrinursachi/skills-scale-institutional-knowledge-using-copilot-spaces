@@ -3,6 +3,11 @@
 ## Purpose
 Standardize how OctoAcme releases features to production to reduce risk and improve observability.
 
+## Release Manager Role
+The Release Manager coordinates all release activities and ensures smooth deployments. See [Roles & Personas - Release Manager](octoacme-roles-and-personas.md#release-manager) for detailed responsibilities and interactions.
+
+For comprehensive release coordination, refer to the [Release Management Checklist](templates/release-management-checklist.md).
+
 ## Release Types
 - Patch: hotfixes addressing critical production issues
 - Minor: incremental features and improvements
@@ -36,3 +41,14 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+---
+
+## Additional Resources
+- [Release Management Checklist](templates/release-management-checklist.md) - Comprehensive checklist for all release phases
+- [Roles & Personas - Release Manager](octoacme-roles-and-personas.md#release-manager) - Role responsibilities and interactions
+- [Cross-Team Collaboration Guide](templates/cross-team-collaboration-guide.md) - Coordination patterns for releases
+
+---
+
+*Updated based on [Issue #4](https://github.com/codrinursachi/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4) to incorporate Release Manager role and comprehensive release management templates.*

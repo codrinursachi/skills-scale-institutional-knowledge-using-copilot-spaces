@@ -19,4 +19,14 @@ Quality assurance and risk management are continuous priorities. We require auto
 - <a href="octoacme-retrospective-and-continuous-improvement.md">Retrospective &amp; Continuous Improvement</a>
 - <a href="octoacme-roles-and-personas.md">Roles &amp; Personas</a>
 
+## Templates and Checklists
+
+- <a href="templates/role-onboarding-checklist.md">Role Onboarding Checklist</a>
+- <a href="templates/release-management-checklist.md">Release Management Checklist</a>
+- <a href="templates/cross-team-collaboration-guide.md">Cross-Team Collaboration Guide</a>
+
 This README should be kept up to date as process docs evolve. To propose changes, use the ".github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml" issue template so updates are reviewed and tracked.
+
+---
+
+*Updated based on [Issue #4](https://github.com/codrinursachi/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4) to include new roles and supporting templates for improved project management.*

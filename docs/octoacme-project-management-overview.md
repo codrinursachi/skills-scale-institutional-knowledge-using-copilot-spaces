@@ -17,8 +17,11 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- QA Lead: manages quality assurance strategies and test planning.
+- Release Manager: coordinates release planning and deployment.
 - Stakeholders: provide inputs and approvals.
+
+For a complete list of roles including Data Steward, Community Facilitator, Technical Writer, and Process Owner, see [Roles & Personas](octoacme-roles-and-personas.md).
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -44,3 +47,9 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- Use templates in the `docs/templates/` folder for role onboarding, release management, and cross-team collaboration.
+
+## Additional Resources
+- [Role Onboarding Checklist](templates/role-onboarding-checklist.md)
+- [Release Management Checklist](templates/release-management-checklist.md)
+- [Cross-Team Collaboration Guide](templates/cross-team-collaboration-guide.md)
